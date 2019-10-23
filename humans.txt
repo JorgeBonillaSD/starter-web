@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jorge Bonilla	jorge@analyticwaves.com	@jorge_uci
 
 # THANKS
 
